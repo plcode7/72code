@@ -1,1 +1,2 @@
-Najlepsze rozszerzenia do Visual Studio 2071
+Najlepsze rozszerzenia do Visual Studio 2017
+
