@@ -8,6 +8,8 @@
 | [Code beautify C\#](https://codebeautify.org/csharpviewer#) |
 | [C\# to JavaScript](https://deck.net/) |
 | [Programming Tests](https://www.testdome.com/tests) |
+| [Analyze & Compare WSDLs](https://www.wsdl-analyzer.com/) |
+| [Swagger Analyzer](https://www.swagger-analyzer.com/ui/) |
 
 
 
