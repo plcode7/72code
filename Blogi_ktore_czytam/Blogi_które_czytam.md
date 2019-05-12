@@ -1,4 +1,4 @@
-| Blogi, które czytam |
+| **Blogi, które czytam** |
 | :--- |
 | **CSharp** |
 | [dotNETomaniak.pl](https://dotnetomaniak.pl/) |
