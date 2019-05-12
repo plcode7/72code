@@ -12,7 +12,8 @@
 | [testingplus](https://testingplus.me/) |
 | [Wrocnet](https://wrocnet.github.io/) |
 | [Blog programisty Mareka Zająca](https://zajacmarek.com/) |
-|  |
+| [Bottega.com.pl \[Materiały dla programistów\]](https://bottega.com.pl/materialy.xhtm?cat=NET) |
+| [JavaDevMatt.pl – Mateusz Kupilas ](https://www.javadevmatt.pl/category/programista-po-emigracji/) |
 |  |
 | **Portale o programowaniu** |
 | [Justjoin](https://geek.justjoin.it/) |
