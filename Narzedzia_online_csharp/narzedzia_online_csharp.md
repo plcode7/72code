@@ -10,6 +10,8 @@
 | [Programming Tests](https://www.testdome.com/tests) |
 | [Analyze & Compare WSDLs](https://www.wsdl-analyzer.com/) |
 | [Swagger Analyzer](https://www.swagger-analyzer.com/ui/) |
+| [CSV to SQL](http://convertcsv.com/csv-to-sql.htm) |
+| [Chilkat Online Tools - generowanie kodu do parsowania xml, json, certyfikatów itp.](https://tools.chilkat.io/) |
 
 
 
