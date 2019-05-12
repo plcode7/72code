@@ -13,6 +13,8 @@
 | [CSV to SQL](http://convertcsv.com/csv-to-sql.htm) |
 | [Chilkat Online Tools - generowanie kodu do parsowania xml, json, certyfikatów itp.](https://tools.chilkat.io/) |
 | [.NET fiddle.net](https://dotnetfiddle.net/) |
+| [regex101](https://regex101.com/) |
+| [txt2re](http://txt2re.com/) |
 
 
 
