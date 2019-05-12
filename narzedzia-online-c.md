@@ -1,7 +1,8 @@
 | Narzedzia Online C\# |
 | :--- |
 | [JSON classes to generate c\#](https://github.com/bladefist/JsonUtils) |
-| [Convert XML to C\#](tps://xmltocsharp.azurewebsites.net) |
+| [Convert XML to C\#](https://xmltocsharp.azurewebsites.net/) |
+| [Free Online XML to XSD Converter](https://www.liquid-technologies.com/online-xml-to-xsd-converter) |
 | [Online C\# String Escape Tool](http://easyonlineconverter.com/converters/dot-net-string-escape.html) |
 | [Converter VB to C\#](http://converter.telerik.com/) |
 | [Code beautify C\#](https://codebeautify.org/csharpviewer#) |
