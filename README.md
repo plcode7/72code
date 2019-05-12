@@ -2,5 +2,5 @@
 
 **Linki**
 
-[Najlepsze\_rozszerzenia\_do\_Visual Studio/Najlepsze\_rozszerzenia\_do\_Visual Studio.md](Najlepsze_rozszerzenia_do_Visual Studio/Najlepsze_rozszerzenia_do_Visual Studio.md)
+[Najlepsze rozszerzenia do Visual Studio 2017](https://github.com/plcode7/72code/tree/master/Najlepsze_rozszerzenia_do_Visual%20Studio)
 
