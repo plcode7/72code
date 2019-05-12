@@ -10,6 +10,7 @@
 | [Blog o programowaniu Dariusza Woźniaka](https://dariuszwozniak.net/) |
 | [Itlibrium](https://itlibrium.com/blog/) |
 | [testingplus](https://testingplus.me/) |
+| [Wrocnet](https://wrocnet.github.io/) |
 |  |
 | **Portale o programowaniu** |
 | [Justjoin](https://geek.justjoin.it/) |
