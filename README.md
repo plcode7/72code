@@ -1,4 +1,4 @@
-# 72 godziny kodowania w C\#
+# 72 Csharp
 
 
 
