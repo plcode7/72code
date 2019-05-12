@@ -9,6 +9,7 @@
 | [Programistyczny zbiór notatek z podróży Wojciecha Seweryna](https://www.wojciechseweryn.pl/) |
 | [Blog o programowaniu Dariusza Woźniaka](https://dariuszwozniak.net/) |
 | [Itlibrium](https://itlibrium.com/blog/) |
+| [testingplus](https://testingplus.me/) |
 |  |
 | **Portale o programowaniu** |
 | [Justjoin](https://geek.justjoin.it/) |
