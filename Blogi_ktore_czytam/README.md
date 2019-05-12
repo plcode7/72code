@@ -1,6 +1,7 @@
 | **Blogi, które czytam** |
 | :--- |
 | **CSharp** |
+|  |
 | [gutek.pl](https://blog.gutek.pl/) |
 | [devstyle.pl](https://devstyle.pl) |
 | [Blog Daniela Plawgo](https://plawgo.pl/) |
@@ -14,6 +15,14 @@
 | [Blog programisty Mareka Zająca](https://zajacmarek.com/) |
 | [Bottega.com.pl \[Materiały dla programistów\]](https://bottega.com.pl/materialy.xhtm?cat=NET) |
 | [JavaDevMatt.pl – Mateusz Kupilas ](https://www.javadevmatt.pl/category/programista-po-emigracji/) |
+|  |
+| **Clarion** |
+| [Softvelocity](http://www.softvelocity.com/) |
+| [Capesoft](https://www.capesoft.com/home.htm) |
+| [Icetips](https://www.icetips.com/) |
+|  |
+| **JavaScript** |
+| [Publikowane co tydzień na fanpage-u WarsawJS ](https://github.com/piecioshka/warto-wiedziec) |
 |  |
 | **Portale o programowaniu** |
 | [Justjoin](https://geek.justjoin.it/) |
