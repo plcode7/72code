@@ -13,10 +13,14 @@
 | [Wrocnet](https://wrocnet.github.io/) |
 | [Blog programisty Mareka Zająca](https://zajacmarek.com/) |
 |  |
+|  |
 | **Portale o programowaniu** |
 | [Justjoin](https://geek.justjoin.it/) |
 | [dotNETomaniak.pl](https://dotnetomaniak.pl/) |
 | [Polskie serwisy na temat front-endu](https://www.polskifrontend.pl/) |
+|  |
+| **Inne materiały dla programistów** |
+| [Słownik terminologii programistycznej](http://shebang.pl/stp/) |
 
 
 
