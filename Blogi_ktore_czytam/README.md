@@ -1,7 +1,7 @@
 | **Blogi, które czytam** |
 | :--- |
 | **CSharp** |
-|  |
+| [BLOG - Michał Jankowski](https://www.jankowskimichal.pl/blog/) |
 | [gutek.pl](https://blog.gutek.pl/) |
 | [devstyle.pl](https://devstyle.pl) |
 | [Blog Daniela Plawgo](https://plawgo.pl/) |
