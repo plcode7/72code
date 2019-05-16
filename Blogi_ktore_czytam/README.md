@@ -15,6 +15,7 @@
 | [Blog programisty Mareka Zająca](https://zajacmarek.com/) |
 | [Bottega.com.pl \[Materiały dla programistów\]](https://bottega.com.pl/materialy.xhtm?cat=NET) |
 | [JavaDevMatt.pl – Mateusz Kupilas ](https://www.javadevmatt.pl/category/programista-po-emigracji/) |
+| [Plukasiewicz.net](https://www.plukasiewicz.net/) |
 |  |
 | **Clarion** |
 | [Softvelocity](http://www.softvelocity.com/) |
