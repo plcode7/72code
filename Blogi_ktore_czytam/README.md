@@ -20,6 +20,7 @@
 | [Softvelocity](http://www.softvelocity.com/) |
 | [Capesoft](https://www.capesoft.com/home.htm) |
 | [Icetips](https://www.icetips.com/) |
+| [Clarionhub](https://clarionhub.com/) |
 |  |
 | **JavaScript** |
 | [Publikowane co tydzień na fanpage-u WarsawJS ](https://github.com/piecioshka/warto-wiedziec) |
