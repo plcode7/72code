@@ -16,6 +16,7 @@
 | [Bottega.com.pl \[Materiały dla programistów\]](https://bottega.com.pl/materialy.xhtm?cat=NET) |
 | [JavaDevMatt.pl – Mateusz Kupilas ](https://www.javadevmatt.pl/category/programista-po-emigracji/) |
 | [Plukasiewicz.net](https://www.plukasiewicz.net/) |
+| [Blog ŁUKASZA KURZYNIECY](https://kurzyniec.pl/) |
 |  |
 | **Clarion** |
 | [Softvelocity](http://www.softvelocity.com/) |
