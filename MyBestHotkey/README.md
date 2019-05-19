@@ -14,7 +14,7 @@
 
 | DevExpress |
 | :--- |
-| [CodeRush Shortcuts](https://community.devexpress.com/blogs/markmiller/Cheat Sheets/CodeRushShortcutsAndTemplates.pdf) |
+| [CodeRush Shortcuts](https://community.devexpress.com/blogs/markmiller/archive/2018/04/25/coderush-cheat-sheet-v3.aspx) |
 
 
 
