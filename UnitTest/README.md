@@ -7,6 +7,8 @@
 | [Blog Dariusza Woźniaka](https://dariuszwozniak.net/) |
 | [Patryklewkiewicz.pl](http://www.patryklewkiewicz.pl/) |
 | [Blog Mareka Grochowskiego](http://www.is.umk.pl/~grochu/wiki/doku.php?id=zajecia:znd:unit_test) |
+| [Jessehouwing](https://jessehouwing.net/) |
+| [TopCoder](https://www.topcoder.com/tc?module=Static&d1=features&d2=092806) |
 | **Materiały** |
 | [Gherkin - jak zostać poetą w IT](https://www.slideshare.net/thesoftwarehouse/gherkin-jak-zosta-poet-w-it) |
 
