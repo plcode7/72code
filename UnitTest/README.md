@@ -34,8 +34,9 @@
 | [Gherkin Scenario Builder](https://github.com/mpetrovich/gherkin-scenario-builder) |
 | [Cukedoctor](https://github.com/rmpestano/cukedoctor) |
 | [Pickles](http://www.picklesdoc.com/) |
-| **Blogs** |
+| **Blogs about testing** |
 | [Automatetheplanet.com](https://www.automatetheplanet.com/blog/) |
+| [Automationpanda](https://automationpanda.com).com |
 
 
 
