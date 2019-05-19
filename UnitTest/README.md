@@ -5,6 +5,9 @@
 | Blogi |
 | :--- |
 | [Blog Dariusza Woźniaka](https://dariuszwozniak.net/) |
+| [Patryklewkiewicz.pl](http://www.patryklewkiewicz.pl/) |
+| **Materiały** |
+| [Gherkin - jak zostać poetą w IT](https://www.slideshare.net/thesoftwarehouse/gherkin-jak-zosta-poet-w-it) |
 
 ## In English
 
