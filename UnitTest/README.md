@@ -28,6 +28,7 @@
 | [Unit Test Boilerplate Generator](https://github.com/Microsoft/UnitTestBoilerplateGenerator) |
 | GennyMcGenFace |
 | [Announcement](https://github.com/AutoFixture/AutoFixture) |
+| [NUnit Test Generator](https://kellermansoftware.com/products/nunit-test-generator) |
 | **Creating a unit test scenario.** |
 | [MISTA](https://github.com/dianxiangxu/MISTA) |
 | **XML Unit test  tools** |
