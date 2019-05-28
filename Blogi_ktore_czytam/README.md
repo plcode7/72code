@@ -17,6 +17,7 @@
 | [JavaDevMatt.pl – Mateusz Kupilas ](https://www.javadevmatt.pl/category/programista-po-emigracji/) |
 | [Plukasiewicz.net](https://www.plukasiewicz.net/) |
 | [Blog ŁUKASZA KURZYNIECY](https://kurzyniec.pl/) |
+| [Raygun](https://raygun.com/blog/) |
 |  |
 | **Clarion** |
 | [Softvelocity](http://www.softvelocity.com/) |
