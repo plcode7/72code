@@ -18,6 +18,12 @@
 | [Plukasiewicz.net](https://www.plukasiewicz.net/) |
 | [Blog ŁUKASZA KURZYNIECY](https://kurzyniec.pl/) |
 | [Raygun](https://raygun.com/blog/) |
+| [Blog  Adrian Mularczyk ](https://www.admu.pl/) |
+| [Piotr Gaszewski - BLOG](http://blog.piotrgaszewski.pl/) |
+| [Wojciech Seweryn](https://www.wojciechseweryn.pl/) |
+| [Dariusz Woźniak](https://dariuszwozniak.net/) |
+| [ŁUKASZ KURZYNIEC](https://kurzyniec.pl/) |
+| [Michał Białecki Blog](http://www.michalbialecki.com/) |
 |  |
 | **Clarion** |
 | [Softvelocity](http://www.softvelocity.com/) |
