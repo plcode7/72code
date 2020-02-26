@@ -30,7 +30,7 @@
 | [.NET fiddle.net](https://dotnetfiddle.net/) |
 | **Regular expression** |
 | [regex101](https://regex101.com/) |
-| [txt2re](http://txt2re.com/) |
+| [~~txt2re~~](http://txt2re.com/) |
 | **Snippet** |
 | [Sharplab](https://sharplab.io/) |
 | [Visual Studio Snippet Generator](http://tools.unitycoder.com/VisualStudioSnippetsGenerator/) |
