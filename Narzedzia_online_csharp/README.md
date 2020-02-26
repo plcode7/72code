@@ -21,6 +21,7 @@
 | **Swagger & WSDL** |
 | [Analyze & Compare WSDLs](https://www.wsdl-analyzer.com/) |
 | [Swagger Analyzer](https://www.swagger-analyzer.com/ui/) |
+| [Stopligh](https://stoplight.io/) |
 | **Import data** |
 | [CSV to SQL](http://convertcsv.com/csv-to-sql.htm) |
 | **Multi Tools** |
