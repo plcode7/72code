@@ -29,6 +29,7 @@
 | **Programing online** |
 | [.NET fiddle.net](https://dotnetfiddle.net/) |
 | **Regular expression** |
+| [Regexr.com](https://regexr.com/) |
 | [regex101](https://regex101.com/) |
 | [~~txt2re~~](http://txt2re.com/) |
 | **Snippet** |
