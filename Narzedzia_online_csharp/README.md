@@ -10,7 +10,7 @@
 | [Convert XML to C\#](https://xmltocsharp.azurewebsites.net/) |
 | [Free Online XML to XSD Converter](https://www.liquid-technologies.com/online-xml-to-xsd-converter) |
 | **String** |
-| [Dencode](https://dencode.com/) |
+| [Dencode](https://dencode.com/string/camel-case) |
 | [Online C\# String Escape Tool](http://easyonlineconverter.com/converters/dot-net-string-escape.html) |
 | **Visual Basic** |
 | [Converter VB to C\#](http://converter.telerik.com/) |
