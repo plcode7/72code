@@ -32,7 +32,7 @@
 | **Regular expression** |
 | [Regexr.com](https://regexr.com/) |
 | [regex101](https://regex101.com/) |
-| [~~txt2re~~](http://txt2re.com/) |
+| [txt2re](http://txt2re.com/) znowu nadaje !!!|
 | **Snippet** |
 | [Sharplab](https://sharplab.io/) |
 | [Visual Studio Snippet Generator](http://tools.unitycoder.com/VisualStudioSnippetsGenerator/) |
