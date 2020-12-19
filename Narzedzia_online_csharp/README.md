@@ -46,7 +46,7 @@
 | [Visual Studio Snippet Generator](http://tools.unitycoder.com/VisualStudioSnippetsGenerator/) |
 | **JWT** |
 | [jwt.io](https://jwt.io/) |
-| [Encode or Decode JWTs and code generator](https://www.jsonwebtoken.io/ |
+| [Encode or Decode JWTs and code generator](https://www.jsonwebtoken.io/) |
 | [jwtbuilder](http://jwtbuilder.jamiekurtz.com/) |
 | [Online JWT Generator](https://www.javainuse.com/jwtgenerator) |
 
