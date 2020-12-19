@@ -10,6 +10,7 @@
 | [C# to JSON](https://csharp2json.io/) |
 | [JSON Diff](http://jsondiff.com/) |
 | [JsonDiffPatch](https://benjamine.github.io/jsondiffpatch/demo/index.html) |
+| [Editor Brijpad](https://techbrij.com/brijpad/#json) |
 | **cURL** |
 | [cURLToJava](https://fivesmallq.github.io/curl-to-java/) |
 | [cURLToC#](https://curl.olsh.me/) |
