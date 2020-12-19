@@ -6,6 +6,13 @@
 | [JSONschema.net](https://jsonschema.net/) |
 | [Convert XML To JSON](https://www.convertjson.com/xml-to-json.htm) |
 | [Quicktype](https://app.quicktype.io/) |
+| [JsonToJava](http://www.jsonschema2pojo.org/) |
+| [C# to JSON](https://csharp2json.io/) |
+| [JSON Diff](http://jsondiff.com/) |
+| [JsonDiffPatch](https://benjamine.github.io/jsondiffpatch/demo/index.html) |
+| **cURL** |
+| [cURLToJava](https://fivesmallq.github.io/curl-to-java/) |
+| [cURLToC#](https://curl.olsh.me/) |
 | **XML** |
 | [Convert XML to C\#](https://xmltocsharp.azurewebsites.net/) |
 | [Free Online XML to XSD Converter](https://www.liquid-technologies.com/online-xml-to-xsd-converter) |
