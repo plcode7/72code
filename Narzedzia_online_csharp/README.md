@@ -1,6 +1,6 @@
 | **Narzedzia Online C\# i JAVA ** |
 | :--- |
-| **JSON** |
+| **JSON** | Tu można dac jakis lepszy opis co jest pod linkeim|
 | [JSON classes to generate c\#](https://github.com/bladefist/JsonUtils) |
 | [ObjGen - Live JSON Generator](http://www.objgen.com/json) |
 | [JSONschema.net](https://jsonschema.net/) |
@@ -12,7 +12,7 @@
 | [JsonDiffPatch](https://benjamine.github.io/jsondiffpatch/demo/index.html) |
 | [Editor Brijpad](https://techbrij.com/brijpad/#json) |
 | **cURL** |
-| [cURLToJava](https://fivesmallq.github.io/curl-to-java/) |
+| [cURLToJava POJO](https://fivesmallq.github.io/curl-to-java/) |
 | [cURLToC#](https://curl.olsh.me/) |
 | **XML** |
 | [Convert XML to C\#](https://xmltocsharp.azurewebsites.net/) |
