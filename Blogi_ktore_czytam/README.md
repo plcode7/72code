@@ -25,6 +25,14 @@
 | [ŁUKASZ KURZYNIEC](https://kurzyniec.pl/) |
 | [Michał Białecki Blog](http://www.michalbialecki.com/) |
 |  |
+| **Devexpress/XAF/XPO** |
+| [Oficjalny Devexpress](https://community.devexpress.com/blogs/) |
+| [Devexpress Xaf](https://community.devexpress.com/blogs/xaf/default.aspx)|
+| [Manuel Grundner](https://blog.delegate.at/tags/XAF/)|
+| [Joche Ojeda](https://www.jocheojeda.com)|
+| [Joche Columbie Xafmarin](https://xafmarin.com)|
+| [Wszystko XAF w jednym miejscu Awesome XAF](https://github.com/jjcolumb/awesome-xaf)|
+|  |
 | **Clarion** |
 | [Softvelocity](http://www.softvelocity.com/) |
 | [Capesoft](https://www.capesoft.com/home.htm) |
