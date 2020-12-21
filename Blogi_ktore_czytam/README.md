@@ -1,6 +1,6 @@
-| **Blogi, które czytam** |
+| **Blogi, które czytam** | |
 | :--- |
-| **CSharp** |
+| **CSharp** | |
 | [BLOG - Michał Jankowski](https://www.jankowskimichal.pl/blog/) |
 | [gutek.pl](https://blog.gutek.pl/) |
 | [devstyle.pl](https://devstyle.pl) |
@@ -25,6 +25,14 @@
 | [ŁUKASZ KURZYNIEC](https://kurzyniec.pl/) |
 | [Michał Białecki Blog](http://www.michalbialecki.com/) |
 |  |
+| **Devexpress/XAF/XPO** |
+| [Oficjalny Devexpress](https://community.devexpress.com/blogs/) |często aktualizowany blog z nowościami dotyczacymi devexpress| 
+| [Devexpress Xaf](https://community.devexpress.com/blogs/xaf/default.aspx)|podzbiór z powyższego dotyczący xaf|
+| [Manuel Grundner](https://blog.delegate.at/tags/XAF/)|Niezłae przykłady do xaf, duzo technicznych informacji np o wydajności aplikacji lub jak robic testy|
+| [Joche Ojeda](https://www.jocheojeda.com)|Przykłady jak integrowac aplikację xaf z róznymi serwisami|
+| [Joche Columbie Xafmarin](https://xafmarin.com)|
+| [Wszystko XAF w jednym miejscu Awesome XAF](https://github.com/jjcolumb/awesome-xaf)|
+|  |
 | **Clarion** |
 | [Softvelocity](http://www.softvelocity.com/) |
 | [Capesoft](https://www.capesoft.com/home.htm) |
@@ -41,6 +49,7 @@
 |  |
 | **Inne materiały dla programistów** |
 | [Słownik terminologii programistycznej](http://shebang.pl/stp/) |
+| [Hackers laws](https://github.com/dwmkerr/hacker-laws) |Spis reguł funkcjanujących w świecie IT|
 
 
 

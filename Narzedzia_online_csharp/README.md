@@ -1,18 +1,18 @@
-| **Narzedzia Online C\# i JAVA ** |
+| **Narzedzia Online C\# i JAVA ** | Do czego to służy|
 | :--- |
-| **JSON** |
+| **JSON** | |
 | [JSON classes to generate c\#](https://github.com/bladefist/JsonUtils) |
 | [ObjGen - Live JSON Generator](http://www.objgen.com/json) |
 | [JSONschema.net](https://jsonschema.net/) |
 | [Convert XML To JSON](https://www.convertjson.com/xml-to-json.htm) |
 | [Quicktype](https://app.quicktype.io/) |
-| [JsonToJava](http://www.jsonschema2pojo.org/) |
+| [JsonToJava](http://www.jsonschema2pojo.org/) |Pozwala konwertować JSON do POJO czyli generuje klasy docelowe dla zapodanego JSON'a|
 | [C# to JSON](https://csharp2json.io/) |
 | [JSON Diff](http://jsondiff.com/) |
 | [JsonDiffPatch](https://benjamine.github.io/jsondiffpatch/demo/index.html) |
 | [Editor Brijpad](https://techbrij.com/brijpad/#json) |
 | **cURL** |
-| [cURLToJava](https://fivesmallq.github.io/curl-to-java/) |
+| [cURLToJava POJO](https://fivesmallq.github.io/curl-to-java/) |
 | [cURLToC#](https://curl.olsh.me/) |
 | **XML** |
 | [Convert XML to C\#](https://xmltocsharp.azurewebsites.net/) |
@@ -49,6 +49,9 @@
 | [Encode or Decode JWTs and code generator](https://www.jsonwebtoken.io/) |
 | [jwtbuilder](http://jwtbuilder.jamiekurtz.com/) |
 | [Online JWT Generator](https://www.javainuse.com/jwtgenerator) |
+| **Inne** |
+|[Web Sequence diagrams](https://www.websequencediagrams.com)|Rysowanie diagramów online z użyciem języka podobnego do Mardown|
+|[Miro](https://miro.com/app/dashboard/)|Tablica do wspolnego rysowania online|
 
 
 
