@@ -49,6 +49,9 @@
 | [Encode or Decode JWTs and code generator](https://www.jsonwebtoken.io/) |
 | [jwtbuilder](http://jwtbuilder.jamiekurtz.com/) |
 | [Online JWT Generator](https://www.javainuse.com/jwtgenerator) |
+| **Inne** |
+|[Web Sequence diagrams](https://www.websequencediagrams.com)|Rysowanie diagramów online z użyciem języka podobnego do Mardown|
+|[Miro](https://miro.com/app/dashboard/)|Tablica do wspolnego rysowania online|
 
 
 
