@@ -1,6 +1,6 @@
-| **Blogi, które czytam** |
+| **Blogi, które czytam** | |
 | :--- |
-| **CSharp** |
+| **CSharp** | |
 | [BLOG - Michał Jankowski](https://www.jankowskimichal.pl/blog/) |
 | [gutek.pl](https://blog.gutek.pl/) |
 | [devstyle.pl](https://devstyle.pl) |
@@ -26,7 +26,7 @@
 | [Michał Białecki Blog](http://www.michalbialecki.com/) |
 |  |
 | **Devexpress/XAF/XPO** |
-| [Oficjalny Devexpress](https://community.devexpress.com/blogs/) |
+| [Oficjalny Devexpress](https://community.devexpress.com/blogs/) |często aktualizowany blog z nowościami dotyczacymi devexpress| 
 | [Devexpress Xaf](https://community.devexpress.com/blogs/xaf/default.aspx)|
 | [Manuel Grundner](https://blog.delegate.at/tags/XAF/)|
 | [Joche Ojeda](https://www.jocheojeda.com)|
