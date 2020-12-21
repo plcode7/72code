@@ -1,12 +1,12 @@
-| **Narzedzia Online C\# i JAVA ** |
+| **Narzedzia Online C\# i JAVA ** | Do czego to służy|
 | :--- |
-| **JSON** | Tu można dac jakis lepszy opis co jest pod linkeim|
+| **JSON** | |
 | [JSON classes to generate c\#](https://github.com/bladefist/JsonUtils) |
 | [ObjGen - Live JSON Generator](http://www.objgen.com/json) |
 | [JSONschema.net](https://jsonschema.net/) |
 | [Convert XML To JSON](https://www.convertjson.com/xml-to-json.htm) |
 | [Quicktype](https://app.quicktype.io/) |
-| [JsonToJava](http://www.jsonschema2pojo.org/) |
+| [JsonToJava](http://www.jsonschema2pojo.org/) |Pozwala konwertować JSON do POJO czyli generuje klasy docelowe dla zapodanego JSON'a|
 | [C# to JSON](https://csharp2json.io/) |
 | [JSON Diff](http://jsondiff.com/) |
 | [JsonDiffPatch](https://benjamine.github.io/jsondiffpatch/demo/index.html) |
