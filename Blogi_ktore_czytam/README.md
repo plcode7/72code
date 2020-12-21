@@ -1,6 +1,6 @@
 | **Blogi, które czytam** | |
-| :--- |
-| **CSharp** | |
+| --- |----|
+| **CSharp** | krótki opis |
 | [BLOG - Michał Jankowski](https://www.jankowskimichal.pl/blog/) |
 | [gutek.pl](https://blog.gutek.pl/) |
 | [devstyle.pl](https://devstyle.pl) |
