@@ -35,6 +35,7 @@
 | [CSV to SQL](http://convertcsv.com/csv-to-sql.htm)           |                                                              |
 | **Multi Tools**                                              |                                                              |
 | [Chilkat Online Tools - generowanie kodu do parsowania xml, json, certyfikatów itp.](https://tools.chilkat.io/) |                                                              |
+| [Developer tools](https://extendsclass.com/)                 |                                                              |
 | **Programing online**                                        |                                                              |
 | [.NET fiddle.net](https://dotnetfiddle.net/)                 |                                                              |
 | **Regular expression**                                       |                                                              |
