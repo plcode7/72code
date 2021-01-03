@@ -50,8 +50,14 @@
 | [Encode or Decode JWTs and code generator](https://www.jsonwebtoken.io/) |                                                              |
 | [jwtbuilder](http://jwtbuilder.jamiekurtz.com/)              |                                                              |
 | [Online JWT Generator](https://www.javainuse.com/jwtgenerator) |                                                              |
-| **Inne**                                                     |                                                              |
+| **UML**                                                     |                                                              |
 | [Web Sequence diagrams](https://www.websequencediagrams.com) | Rysowanie diagramów online z użyciem języka podobnego do Mardown |
+| [Liveuml](https://liveuml.com/) |                                                              |
+| [Plantuml-editor](https://plantuml-editor.kkeisuke.com/) |                                                              |
+| [Planttext](https://www.planttext.com/) |                                                              |
+| [Umltree](https://app.umltree.com/) |                                                              |
+| [PlantUML - styler ](https://plantumlstyler.netlify.app/) |                                                              |
+| **Inne**                                                     | 
 | [Miro](https://miro.com/app/dashboard/)                      | Tablica do wspolnego rysowania online                        |
 
 
