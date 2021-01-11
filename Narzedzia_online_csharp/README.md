@@ -63,6 +63,6 @@
 | [Online Gherkin Editor by SpecFlow](https://specflow.org/gherkin-editor/) |                                                              |
 | **Inne**                                                     | 
 | [Miro](https://miro.com/app/dashboard/)                      | Tablica do wspolnego rysowania online                        |
-
+| [Convert Maven Project to Gradle Project](https://sagioto.github.io/maven2gradle/) |                                                              |
 
 
