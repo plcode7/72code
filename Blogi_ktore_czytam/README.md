@@ -39,7 +39,7 @@
 | [Icetips](https://www.icetips.com/) |
 | [Clarionhub](https://clarionhub.com/) |
 | **LINQ** |
-[ [101 Samples](https://github.com/dotnet/try-samples/tree/master/101-linq-samples)
+| [101 Samples](https://github.com/dotnet/try-samples/tree/master/101-linq-samples) |
 |  |
 | **JavaScript** |
 | [Publikowane co tydzień na fanpage-u WarsawJS ](https://github.com/piecioshka/warto-wiedziec) |
