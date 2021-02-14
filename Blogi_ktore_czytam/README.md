@@ -33,6 +33,8 @@
 | [Joche Columbie Xafmarin](https://xafmarin.com)              |                                                              |
 | [Wszystko XAF w jednym miejscu Awesome XAF](https://github.com/jjcolumb/awesome-xaf) |                                                              |
 |                                                              |                                                              |
+| **LINQ**                                                  |                                                              |
+| [101 LINQ samples](https://docs.microsoft.com/en-us/samples/dotnet/try-samples/101-linq-samples/)                 |                                                              |
 | **Clarion**                                                  |                                                              |
 | [Softvelocity](http://www.softvelocity.com/)                 |                                                              |
 | [Capesoft](https://www.capesoft.com/home.htm)                |                                                              |
