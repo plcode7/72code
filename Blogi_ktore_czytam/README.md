@@ -50,6 +50,8 @@
 | **Inne materiały dla programistów**                          |                                                              |
 | [Słownik terminologii programistycznej](http://shebang.pl/stp/) |                                                              |
 | [Hackers laws](https://github.com/dwmkerr/hacker-laws)       | Spis reguł funkcjanujących w świecie IT                      |
+| [Modelowanie w markdown](https://mermaid-js.github.io/mermaid/#/)|Opis modelowania w uml z apomoca mardown/mermaid|
+|[Markodwn - sciąga](https://www.markdownguide.org/cheat-sheet/)| Składnia Markdown|
 
 
 
