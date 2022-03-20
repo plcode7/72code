@@ -20,7 +20,7 @@
 | **String**                                                   |                                                              |
 | [Dencode](https://dencode.com/string/camel-case)             |                                                              |
 | [Online C\# String Escape Tool](http://easyonlineconverter.com/converters/dot-net-string-escape.html) |  
-|[C# Escape / Unescape] (https://codebeautify.org/csharp-escape-unescape)                                          |               |
+|[C# Escape / Unescape](https://codebeautify.org/csharp-escape-unescape)                                          |               |
 | **Visual Basic**                                             |                                                              |
 | [Converter VB to C\#](http://converter.telerik.com/)         |                                                              |
 | **JavaScript**                                               |                                                              |
