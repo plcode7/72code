@@ -19,7 +19,8 @@
 | [Free Online XML to XSD Converter](https://www.liquid-technologies.com/online-xml-to-xsd-converter) |                                                              |
 | **String**                                                   |                                                              |
 | [Dencode](https://dencode.com/string/camel-case)             |                                                              |
-| [Online C\# String Escape Tool](http://easyonlineconverter.com/converters/dot-net-string-escape.html) |                                                              |
+| [Online C\# String Escape Tool](http://easyonlineconverter.com/converters/dot-net-string-escape.html) |  
+|C# Escape / Unescape                                          |https://codebeautify.org/csharp-escape-unescape               |
 | **Visual Basic**                                             |                                                              |
 | [Converter VB to C\#](http://converter.telerik.com/)         |                                                              |
 | **JavaScript**                                               |                                                              |
